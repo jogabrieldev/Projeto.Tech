@@ -1,0 +1,160 @@
+
+body{
+    background-image: url(midia/img/fundo.1.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 125px;
+   
+}
+#head{
+    text-align: center;
+}
+#main{
+    margin-right: 15%;
+}
+.btn1{
+    
+    margin-right: 5%;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: bisque;
+}
+.btn2{
+    margin-right: 5%;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: bisque;
+}
+.btn3{
+    margin-right: 5%;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: bisque;
+}
+.btn4{
+    margin-right: 5%;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: bisque;
+}
+.btn5{
+    margin-right: -9%;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: bisque;
+}
+#photo1{
+    margin-top: 7%;
+    margin-left: 3%;
+    width: 500px;
+    border-radius: 15px;
+}
+.script1{
+    display: block;
+}
+.midia1{
+    margin-top: -25%;
+    margin-left: 55%;
+    width: 520px;
+    border-radius: 15px;
+}
+#photo2{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 520px;
+    border-radius: 15px;
+}
+p{
+    margin-left: 2%;
+    font-size: 16px;
+    color: aliceblue;
+}
+.midia2{
+    margin-top: -17%;
+    margin-left: 55%;
+    width: 520px;
+    border-radius: 15px;
+}
+#photo3{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 520px;
+    border-radius: 15px;
+}
+.midia3{
+    margin-top: -20%;
+    margin-left: 59%;
+    width: 520px;
+    border-radius: 15px;
+}
+.info{
+    margin-left: 8%;
+    color: black; 
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+    height: 25px;
+}
+a{
+    text-decoration: none;
+}
+.script_history{
+    text-align: center;
+}
+.text01{
+    font-size: 18px;
+    margin-top: 8%;
+    word-spacing: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text02{
+    font-size: 18px;
+    margin-top: 4%;
+    word-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.informa{
+    text-align: center;
+}
+.IA{
+    margin-top: 5%;
+}
+.midia_IA{
+    width: 600PX;
+    margin-left: -18%;
+}
+.text_03{
+    font-size: 17px;
+    word-spacing: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.comunication{
+    margin-top: 10%;
+    margin-left: -80%;
+}
+.fundo_alt{
+    background-image: url(midia/img/funco.2.jpg);
+}
+.phone{
+    font-size: 22px;
+}
+.insta{
+    font-size: 22px;
+}
+
